@@ -1,5 +1,5 @@
 shinyUI(fluidPage(
-  titlePanel("Animated Time Series"),
+  titlePanel("Temperature of the World Over the Years"),
 
     sidebarLayout(
     sidebarPanel(
